@@ -1,1 +1,8 @@
-{"guid":"template_wiki_confluence","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_wiki_confluence.git"}}
+{
+    "guid":"template_wiki_confluence",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_wiki_confluence.git"
+    }
+}
