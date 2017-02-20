@@ -6,7 +6,7 @@
         "name":"confluence-notation-guide.confluence",
         "action":"generate",
         "rootFolder":"WikiContent",
-         "rename":"%s"
+        "rename":"%s"
     }],
     "parameters":[{
         "name":"name",
